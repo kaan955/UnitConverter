@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">Unit Converter</string>
     <string name="frequently_used">Favorites</string>
-    <string name="last_used">Last Used</string>
+    <string name="last_used">Recently Used</string>
+    <string name="last_used_empty">You can see your last used converters here.</string>
+    <string name="frequently_used_empty">You can add your most used converters here.</string>
+    <string name="sub_home">Home</string>
+    <string name="sub_converter">Convert</string>
+    <string name="sub_settings">Settings</string>
 
 
 

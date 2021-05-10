@@ -4,5 +4,9 @@
     <string name="app_name">Birim Çevirici</string>
     <string name="frequently_used">Favorilerin</string>
     <string name="last_used">Son Kullanılanlar</string>
-
+    <string name="last_used_empty">En son kullandığın dönüştürücüleri buradan görebilirsin.</string>
+    <string name="frequently_used_empty">Sık kullandığın dönüştürücüleri buraya ekleyebilirsin.</string>
+    <string name="sub_home">Home</string>
+    <string name="sub_converter">Çevir</string>
+    <string name="sub_settings">Ayarlar</string>
 </resources>

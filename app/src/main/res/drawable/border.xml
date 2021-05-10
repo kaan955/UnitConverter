@@ -8,8 +8,9 @@
     <solid android:color="@android:color/white" />
     <stroke
         android:width="2dp"
-        android:color="#FFFFFF"
+        android:color="#CABBBBBB"
 
-        app:cardCornerRadius="10dp"/>
+
+        app:cardCornerRadius="5dp"/>
 
 </shape>

@@ -1,4 +1,4 @@
-package com.kaanb.birimevirici.ui.base
+package com.kaanb.birimcevirici.ui.base
 
 import androidx.lifecycle.ViewModel
 

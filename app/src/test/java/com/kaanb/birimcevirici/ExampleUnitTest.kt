@@ -1,4 +1,4 @@
-package com.kaanb.birimevirici
+package com.kaanb.birimcevirici
 
 import org.junit.Test
 

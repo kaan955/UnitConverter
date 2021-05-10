@@ -2,14 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/person"
-        android:title="Person"
-        android:icon="@drawable/ic_launcher_background"/>
+        android:title="@string/sub_home"
+        android:icon="@drawable/home"/>
     <item
         android:id="@+id/home"
-        android:title="Home"
-        android:icon="@drawable/ic_launcher_background"/>
+        android:title="@string/sub_converter"
+        android:icon="@android:drawable/stat_notify_sync"/>
     <item
         android:id="@+id/settings"
-        android:title="Settings"
-        android:icon="@drawable/ic_launcher_background"/>
+        android:title="@string/sub_settings"
+        android:icon="@drawable/settings"/>
 </menu>

@@ -1,9 +1,8 @@
-package com.kaanb.birimevirici.ui
+package com.kaanb.birimcevirici.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import com.kaanb.birimevirici.R
+import com.kaanb.birimcevirici.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
