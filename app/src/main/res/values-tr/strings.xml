@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birim Çevirici</string>
+    <string name="frequently_used">Favorilerin</string>
+    <string name="last_used">Son Kullanılanlar</string>
+
+</resources>

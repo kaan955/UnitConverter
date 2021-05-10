@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="frequently_used">Favorites</string>
+    <string name="last_used">Last Used</string>
+
+
+
+</resources>
